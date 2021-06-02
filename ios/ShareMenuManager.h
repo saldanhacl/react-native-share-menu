@@ -5,6 +5,9 @@
 //  Created by Gustavo Parreira on 26/07/2020.
 //
 
+#import <Foundation/NSObject.h>
+#import <UIKit/UIKit.h>
+
 @interface ShareMenuManager : NSObject
 
 + (BOOL)application:(UIApplication *)app
